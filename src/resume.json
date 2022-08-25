@@ -1,0 +1,251 @@
+{
+  "basics": {
+    "name": "Oluwagbenga James Balogun",
+    "label": "Site Reliability Engineer / DevOps Engineer",
+    "picture": "images/gbenga.png",
+    "x_pictureFallback": "images/gbenga.png",
+    "x_title": "Hi There! Thank you for visiting my Page",
+    "summary": "Going on 8 years of experience in IT operations. I'm a Microsoft Certified Trainer currently working as an Azure support engineer exploring the cloud world. I’m interested in building distributed, cloud native applications, service management, monitoring and site reliability engineering.",
+    "location": {
+      "country": "Nigeria",
+      "countryCode": "NG",
+      "region": "Lagos"
+    },
+    "profiles": [
+      {
+        "network": "Docker Community",
+        "username": "balop3e",
+        "url": "https://hub.docker.com/u/balop3e",
+        "x_icon": "fab fa-2x fa-docker"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "oluwagbenga-balogun-90232278",
+        "url": "https://www.linkedin.com/in/oluwagbenga-balogun-90232278",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "balop3e",
+        "url": "https://github.com/balop3e",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Tek Experts",
+      "position": "Queue Manager",
+      "website": "https://tek-experts.com",
+      "startDate": "2022-03-05",
+      "endDate": "",
+      "summary": "Monitoring, sorting, filtering, exporting and grouping the queue. Reporting incidents problem tickets and SLA status.",
+      "highlights": []
+    },
+    {
+      "company": "Tek Experts",
+      "position": "Azure Infrasture Engineer",
+      "website": "https://tek-experts.com",
+      "startDate": "2021-06-05",
+      "endDate": "",
+      "summary": "Working as a cloud administrator on Microsoft Azure, actively involved in configuring VMs, storage accounts Azure active directory. Respond to support tickets from end-users, troubleshooting incidents related to windows and linux servers, identifying root cause, fix and implemetn preventive measures. i dentified road blockers and provided recommendations to improve efficiency and performance of clients cloud environment.",
+      "highlights": []
+    },
+    {
+      "company": "Garanntor Hosting Limited",
+      "position": "Cloud Technical Support Specialist - Web Developer",
+      "website": "https://garanntor.com",
+      "startDate": "2020-02-15",
+      "endDate": "2021-06-01",
+      "summary": "Web server, mail server DNS configuration and management of web hosting control panels. Handeled DevOps task and performed server/website migrations. Designed and developed clients website. Resolved technical requests from end-users/clients over the phone, email and also via online support.",
+      "highlights": []
+    },
+    {
+      "company": "XFusionCorp",
+      "position": "Site Reliability Engineer - Devops Engineer",
+      "website": "https://kodekloud-engineer.com",
+      "startDate": "2019-06-08",
+      "endDate": "",
+      "summary": "Here was my first major experience as a DevOps and site reliability engineer. I designed and implemented network security structure, I imporived reliability and performance using reverse proxy for global server load balancer traffic between target nodes. Actively manage and monitor cloud infrastructure on Azure, AKS, VM and Container Instances. Constantly reviewed and analyzed the security of web and mobile application. Created and maintained fully automated CI/CD pipelines for infrastructure deployment using terraform and Azure DevOps.",
+      "highlights": []
+    },
+    {
+      "company": "Bonjourex Resources Nigeria Limited",
+      "position": "Business Analyst - IT Administrator",
+      "website": "https://bonjourex.ng",
+      "startDate": "2017-10-06",
+      "endDate": "2020-01-04",
+      "summary": "I cordinated new techincal projects, defining scope and managing milestones and maintianing strong relationships with stakholders. I created a product design for an e-commerce application project. I pitched the cloud adoption and introduced agile method of developing our applications to the team. I worked with the development team to implement new design for the release environment also performed code reviews to ensure qulaity code migration.",
+      "highlights": []
+    },
+    {
+      "company": "Empire Business Solutions Limited",
+      "position": "Technical Support Assistant",
+      "website": "",
+      "startDate": "2016-05-09",
+      "endDate": "2017-09-17",
+      "summary": "I got the experience that layed the foundation of my system development skils, I made qualtiy testings and evaluated including helping to set up new technologies and application at clients site (Nigeria Banks). The UNION ONE software for Union Bank of Nigeria was one of the core project I was fully involved in the set up and testing.",
+      "highlights": []
+    },
+    {
+      "company": "Nigeria Civil Aviation Authority",
+      "position": "Computer System Analyst",
+      "website": "https://ncaa.gov.ng",
+      "startDate": "2011-06-13",
+      "endDate": "2011-07-03",
+      "summary": "My first real work experience. Interning as a Computer System Analyst. I was able to learn and troubleshoot system also network problems. I also diagnosed and solve hardware & software faults. Setting up new users accounts and profiles tackling password issues and also talking staff's through a series of actions, to help set up systems or resolve issues.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Ilorin",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-15",
+      "endDate": "2015-06-09",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures",
+        "Requirements Engineering"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Azure",
+      "x_icon": "fa-solid fa-cloud-bolt",
+      "x_description": "VM, Vnet, Container Instances, AzureCDN, Storage Account, App Services, AKS, FrontDoor and others"
+    },
+    {
+      "name": "Infrastructure as Code",
+      "x_icon": "fa-code",
+      "x_description": "Developing and maintaining infrastructure as code with Terraform"
+    },
+    {
+      "name": "Configuration Management",
+      "x_icon": "fa-gears",
+      "x_description": "Launching, configuring and maintaining cloud environments with Ansible"
+    },
+    {
+      "name": "CI/CD",
+      "x_icon": "fa-infinity",
+      "x_description": "Implementing continuous integration and deployment pipelines with Azure DevOps"
+    },
+    {
+      "name": "Scripting",
+      "x_icon": "fa-brands fa-python",
+      "x_description": "Writting deployment tools and scripts, and automating all possible tasks with Python and PowerShell"
+    },
+    {
+      "name": "Monitoring",
+      "x_icon": "fa-chart-line",
+      "x_description": "Implementing centralized monitoring solution for cloud environments with Azure Monitor"
+    },
+    {
+      "name": "Serverless",
+      "x_icon": "fa-bolt",
+      "x_description": "Building reliable and cost efficient systems with Azure function and App services"
+    },
+    {
+      "name": "Containers",
+      "x_icon": "fa-brands fa-docker",
+      "x_description": "Delivering and distributing applications and tools with Docker, docker-compose and kubernetes"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Yoruba",
+      "fluency": "Native speaker"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: DevOps Engineer Expert",
+      "issuer": "Microsoft Azure Training and Certifications",
+      "url": "https://www.credly.com/badges/3d6090a4-7222-473c-b8c0-d005eee9a3fd/public_url",
+      "x_badgeId": "3d6090a4-7222-473c-b8c0-d005eee9a3fd",
+      "x_imageId": "c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca",
+      "x_imageName": "image.png"
+    },
+    {
+      "name": "Microsoft Certified: Azure Security Engineer Associate",
+      "issuer": "Microsoft Azure Training and Certifications",
+      "url": "https://www.credly.com/badges/a22166d3-144e-4904-90a1-ed3801823891/public_url",
+      "x_badgeId": "a22166d3-144e-4904-90a1-ed3801823891",
+      "x_imageId": "1ad16b6f-2c71-4a2e-ae74-ec69c4766039",
+      "x_imageName": "image1.png"
+    },
+    {
+      "name": "Microsoft Certified: Azure Administrator Associate",
+      "issuer": "Microsoft Azure Training and Certifications",
+      "url": "https://www.credly.com/badges/b812ba7f-dfd7-4dfd-8b6b-c84a4674c7bb/public_url",
+      "x_badgeId": "b812ba7f-dfd7-4dfd-8b6b-c84a4674c7bb",
+      "x_imageId": "336eebfc-0ac3-4553-9a67-b402f491f185",
+      "x_imageName": "image2.png"
+    },
+    {
+      "name": "Microsoft Certified Trainer 2022-2023",
+      "issuer": "Microsoft Azure Training and Certifications",
+      "url": "https://www.credly.com/badges/fb3d7ff1-0bcf-498a-b4e0-0d75537ab473/public_url",
+      "x_badgeId": "fb3d7ff1-0bcf-498a-b4e0-0d75537ab473",
+      "x_imageId": "bb4156e4-c2e1-4399-b03c-af6feb7a6cc4",
+      "x_imageName": "image3.png"
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services Training and Certification",
+      "url": "https://www.credly.com/badges/71a7da9f-7952-4bd3-bcdc-13c45a8ed98c/public_url",
+      "x_badgeId": "71a7da9f-7952-4bd3-bcdc-13c45a8ed98c",
+      "x_imageId": "00634f82-b07f-4bbd-a6bb-53de397fc3a6",
+      "x_imageName": "image4.png"
+    },
+    {
+      "name": "Scrum Foundation Professional Certificate - SFPC™",
+      "issuer": "Certiprof",
+      "url": "https://www.credly.com/badges/3aa2926e-fbab-47e8-9e25-e016836587b5/public_url",
+      "x_badgeId": "3aa2926e-fbab-47e8-9e25-e016836587b5",
+      "x_imageId": "3be57d7c-55de-4119-9ca9-738e20c0fae0",
+      "x_imageName": "image5.png"
+    },
+    {
+      "name": "Microsoft Certified: Identity and Access Administrator Associate",
+      "issuer": "Microsoft Azure Training and Certifications",
+      "url": "https://www.credly.com/badges/245ee596-da35-41e5-a7bb-57e6bcbd45e9/public_url",
+      "x_badgeId": "245ee596-da35-41e5-a7bb-57e6bcbd45e9",
+      "x_imageId": "91295436-0704-4b98-8e1a-ef5f937bda21",
+      "x_imageName": "image6.png"
+    },
+    {
+      "name": "AZ-400: Designing and Implementing Microsoft DevOps Solutions",
+      "issuer": "Microsoft Azure Training and Certifications",
+      "url": "https://www.credly.com/badges/846bf10a-6e17-4965-92a8-fbda95ca7cf8/public_url",
+      "x_badgeId": "846bf10a-6e17-4965-92a8-fbda95ca7cf8",
+      "x_imageId": "107e2eb6-f394-40eb-83d2-d8c9b7d34555",
+      "x_imageName": "image9.png"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Travel bug",
+      "x_icon": "fa-globe-africa"
+    },
+    {
+      "name": "Traveling",
+      "x_icon": "fa-plane-departure"
+    },
+    {
+      "name": "Playing Games",
+      "x_icon": "fa-gamepad"
+    },
+    {
+      "name": "Foodie",
+      "x_icon": "fa-utensils"
+    }
+  ]
+}
