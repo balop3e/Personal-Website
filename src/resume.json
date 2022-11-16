@@ -84,7 +84,7 @@
       "website": "",
       "startDate": "2016-05-09",
       "endDate": "2017-09-17",
-      "summary": "I got the experience that layed the foundation of my system development skils, I made qualtiy testings and evaluated including helping to set up new technologies and application at clients site (Nigeria Banks). The UNION ONE software for Union Bank of Nigeria was one of the core project I was fully involved in the set up and testing.",
+      "summary": "I got the experience that layed the foundation of my system development skills, I made qualtiy testings and evaluated including helping to set up new technologies and application at clients site (Nigeria Banks). The UNION ONE software for Union Bank of Nigeria was one of the core project I was fully involved in the set up and testing.",
       "highlights": []
     },
     {
@@ -168,10 +168,18 @@
     {
       "name": "Microsoft Certified: DevOps Engineer Expert",
       "issuer": "Microsoft Azure Training and Certifications",
-      "url": "https://www.credly.com/badges/3d6090a4-7222-473c-b8c0-d005eee9a3fd/public_url",
+      "url": "https://www.credly.com/badge/ae0e38ec-b974-48d3-ab56-365854e7c885/public_url",
       "x_badgeId": "3d6090a4-7222-473c-b8c0-d005eee9a3fd",
       "x_imageId": "c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca",
       "x_imageName": "image.png"
+    },
+    {
+      "name": "Microsoft Certified: Cybersecurity Expert",
+      "issuer": "Microsoft Azure Training and Certifications",
+      "url": "https://www.credly.com/badges/3d6090a4-7222-473c-b8c0-d005eee9a3fd/public_url",
+      "x_badgeId": "3d6090a4-7222-473c-b8c0-d005eee9a3fd",
+      "x_imageId": "0ba22331-acf9-4e8a-8ce3-b4cc3d376040",
+      "x_imageName": "image11.png"
     },
     {
       "name": "Microsoft Certified: Azure Security Engineer Associate",
@@ -198,6 +206,14 @@
       "x_imageName": "image3.png"
     },
     {
+      "name": "SC-100: Microsoft Cybersecurity Architect",
+      "issuer": "Microsoft Azure Training and Certifications",
+      "url": "https://www.credly.com/badge/f9cbf0d3-ae82-4bba-bba4-919fe7e69799/public_url",
+      "x_badgeId": "f9cbf0d3-ae82-4bba-bba4-919fe7e69799",
+      "x_imageId": "c34a6df4-c7bd-461b-ac12-deab18ab6804",
+      "x_imageName": "image10.png"
+    }, 
+    {
       "name": "AWS Certified Cloud Practitioner",
       "issuer": "Amazon Web Services Training and Certification",
       "url": "https://www.credly.com/badges/71a7da9f-7952-4bd3-bcdc-13c45a8ed98c/public_url",
@@ -212,6 +228,14 @@
       "x_badgeId": "3aa2926e-fbab-47e8-9e25-e016836587b5",
       "x_imageId": "3be57d7c-55de-4119-9ca9-738e20c0fae0",
       "x_imageName": "image5.png"
+    },
+     {
+      "name": "Microsoft Certified: Azure Solutions Architect Expert",
+      "issuer": "Microsoft Azure Training and Certifications",
+      "url": "https://www.credly.com/badge/7ebd8bde-7e4c-47cc-b135-f6144913e6b5/public_url",
+      "x_badgeId": "7ebd8bde-7e4c-47cc-b135-f6144913e6b5",
+      "x_imageId": "987adb7e-49be-4e24-b67e-55986bd3fe66",
+      "x_imageName": "image12.png"
     },
     {
       "name": "Microsoft Certified: Identity and Access Administrator Associate",
@@ -228,6 +252,14 @@
       "x_badgeId": "846bf10a-6e17-4965-92a8-fbda95ca7cf8",
       "x_imageId": "107e2eb6-f394-40eb-83d2-d8c9b7d34555",
       "x_imageName": "image9.png"
+    },
+    {
+      "name": "AZ-305: Designing and Implementing Microsoft DevOps Solutions",
+      "issuer": "Microsoft Azure Training and Certifications",
+      "url": "https://www.credly.com/badge/ffb52ab1-27b6-44c3-ae30-5e6d8a530838/public_url",
+      "x_badgeId": "ffb52ab1-27b6-44c3-ae30-5e6d8a530838",
+      "x_imageId": "9d7dc4c0-5681-41fc-b96b-26e9157786d7",
+      "x_imageName": "image13.png"
     }
   ],
   "interests": [
