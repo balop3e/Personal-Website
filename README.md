@@ -13,7 +13,7 @@ Use Node v16.15.1
 
 Feel free to fork this project and update it with your own information and style. Just update the ´src/resume.json´ with your personal information.
 
-If you improve the app in any way a PR would be very apreciated ;)
+If you improve the app in any way a PR would be very apreciated 😉
 
 ## Build
 
