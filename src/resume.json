@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Oluwagbenga James Balogun",
-    "label": "Site Reliability Engineer / DevOps Engineer",
+    "label": "Senior Consultant Specialist, SRE / DevOps Engineer",
     "picture": "images/gbenga.png",
     "x_pictureFallback": "images/gbenga.png",
     "x_title": "Hi There! Thank you for visiting my Page",
-    "summary": "Going on 8 years of experience in IT operations. I'm a Microsoft Certified Trainer currently working as an Azure support engineer exploring the cloud world. I’m interested in building distributed, cloud native applications, service management, monitoring and site reliability engineering.",
+    "summary": "With nearly a decade in IT operations, I'm a results-driven DevOps Engineer with strong technical background and a Microsoft Certified Trainer with a profound interest in the exploration of the cloud realm. My expertise encompasses building distributed, cloud-native applications, service management, monitoring, and site reliability engineering. Currently positioned as a seasoned DevOps Engineer with KPMG MBS. I've been entrusted with a significant role as the Technical Lead for Application Lifecycle Management (ALM) at the United Nations High Commissioner for Refugees (UNHCR). I am presently engaged as a Senior Consultant Specialist for UNHCR, the UN Refugee Agency, where I leverage my expertise to optimize, automate, and strengthen the agency's technological infrastructure.",
     "location": {
-      "country": "Nigeria",
-      "countryCode": "NG",
-      "region": "Lagos"
+      "country": "Malta",
+      "countryCode": "MT",
+      "region": "Valletta"
     },
     "profiles": [
       {
@@ -34,11 +34,29 @@
   },
   "work": [
     {
+      "company": "United Nations High Commissioner for Refugees (UNHCR)",
+      "position": "Senior Consultant Specialist",
+      "website": "https://www.unhcr.org/",
+      "startDate": "2023-08-09",
+      "endDate": "",
+      "summary": "I've been entrusted with a significant role as the Technical Lead for Application Lifecycle Management (ALM) at the United Nations High Commissioner for Refugees (UNHCR). I am presently engaged as a Senior Consultant Specialist for UNHCR, the UN Refugee Agency, where I leverage my expertise to optimize, automate, and strengthen the agency's technological infrastructure. I oversee the full spectrum of the application lifecycle, ensuring technological excellence in end-to-end solutions. While my foundation is in technology, my current placement within a globally-renowned humanitarian organization illustrates my ability to perform and innovate in high-stakes, global settings. My diverse experience, spanning from KPMG to UNHCR, emphasizes my adaptability and proficiency in managing projects that demand precision, scalability, and a keen understanding of large-scale operations. With a focus on harnessing the latest in DevOps practices, I am committed to ensuring smooth deployments, scalability, and high availability for the systems I manage, regardless of the sector or complexity of the challenge.",
+      "highlights": []
+    },
+    {
+      "company": "KPMG MBS",
+      "position": "Analyst Programmer/DevOps Engineer",
+      "website": "https://kpmg.com/mt/en/home.html",
+      "startDate": "2023-01-05",
+      "endDate": "",
+      "summary": "Innovative and strategic DevOps Engineer at KPMG, specializing in containerization and full pipeline processing to facilitate cutting-edge software delivery. My expertise lies in deploying scalable solutions and orchestrating end-to-end automation that enhances operational efficiencies. I have a proven track record in the deployment of Microsoft Dynamics 365 CE, contributing to the digital transformation initiatives with keen insights into cloud services and infrastructure management. Renowned for driving continuous integration and delivery, I excel in creating robust, secure, and resilient systems. My role goes beyond mere execution; it is about pioneering DevOps methodologies that redefine the agility and performance of technology systems in complex and dynamic environments.",
+      "highlights": []
+    },
+    {
       "company": "Tek Experts",
       "position": "Queue Manager",
       "website": "https://tek-experts.com",
       "startDate": "2022-03-05",
-      "endDate": "",
+      "endDate": "2022-11-23",
       "summary": "Monitoring, sorting, filtering, exporting and grouping the queue. Reporting incidents problem tickets and SLA status.",
       "highlights": []
     },
@@ -47,17 +65,8 @@
       "position": "Azure Infrasture Engineer",
       "website": "https://tek-experts.com",
       "startDate": "2021-06-05",
-      "endDate": "",
+      "endDate": "2022-03-05",
       "summary": "Working as a cloud administrator on Microsoft Azure, actively involved in configuring VMs, storage accounts Azure active directory. Respond to support tickets from end-users, troubleshooting incidents related to windows and linux servers, identifying root cause, fix and implemetn preventive measures. i dentified road blockers and provided recommendations to improve efficiency and performance of clients cloud environment.",
-      "highlights": []
-    },
-    {
-      "company": "Garanntor Hosting Limited",
-      "position": "Cloud Technical Support Specialist - Web Developer",
-      "website": "https://garanntor.com",
-      "startDate": "2020-02-15",
-      "endDate": "2021-06-01",
-      "summary": "Web server, mail server DNS configuration and management of web hosting control panels. Handeled DevOps task and performed server/website migrations. Designed and developed clients website. Resolved technical requests from end-users/clients over the phone, email and also via online support.",
       "highlights": []
     },
     {
