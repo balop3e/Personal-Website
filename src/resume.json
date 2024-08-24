@@ -75,7 +75,7 @@
       "website": "https://kodekloud-engineer.com",
       "startDate": "2019-06-08",
       "endDate": "",
-      "summary": "Here was my first major experience as a DevOps and site reliability engineer. I designed and implemented network security structure, I imporived reliability and performance using reverse proxy for global server load balancer traffic between target nodes. Actively manage and monitor cloud infrastructure on Azure, AKS, VM and Container Instances. Constantly reviewed and analyzed the security of web and mobile application. Created and maintained fully automated CI/CD pipelines for infrastructure deployment using terraform and Azure DevOps.",
+      "summary": "Here was my first major experience as a DevOps and site reliability engineer. I designed and implemented network security structure, I improved reliability and performance using reverse proxy for global server load balancer traffic between target nodes. Actively manage and monitor cloud infrastructure on Azure, AKS, VM and Container Instances. Constantly reviewed and analyzed the security of web and mobile application. Created and maintained fully automated CI/CD pipelines for infrastructure deployment using terraform and Azure DevOps.",
       "highlights": []
     },
     {
@@ -84,7 +84,7 @@
       "website": "https://bonjourex.ng",
       "startDate": "2017-10-06",
       "endDate": "2020-01-04",
-      "summary": "I cordinated new techincal projects, defining scope and managing milestones and maintianing strong relationships with stakholders. I created a product design for an e-commerce application project. I pitched the cloud adoption and introduced agile method of developing our applications to the team. I worked with the development team to implement new design for the release environment also performed code reviews to ensure qulaity code migration.",
+      "summary": "I coordinated new technical projects, defining the scope and managing milestones and maintaining strong relationships with stakeholders. I created a product design for an e-commerce application project. I pitched the cloud adoption and introduced agile method of developing our applications to the team. I worked with the development team to implement new design for the release environment also performed code reviews to ensure qulaity code migration.",
       "highlights": []
     },
     {
@@ -93,7 +93,7 @@
       "website": "",
       "startDate": "2016-05-09",
       "endDate": "2017-09-17",
-      "summary": "I got the experience that layed the foundation of my system development skills, I made qualtiy testings and evaluated including helping to set up new technologies and application at clients site (Nigeria Banks). The UNION ONE software for Union Bank of Nigeria was one of the core project I was fully involved in the set up and testing.",
+      "summary": "I got the experience that laid the foundation of my system development skills, I made quality testings and evaluated including helping to set up new technologies and applications at clients site (Nigeria Banks). The UNION ONE software for Union Bank of Nigeria was one of the core project I was fully involved in the set up and testing.",
       "highlights": []
     },
     {
@@ -102,7 +102,7 @@
       "website": "https://ncaa.gov.ng",
       "startDate": "2011-06-13",
       "endDate": "2011-07-03",
-      "summary": "My first real work experience. Interning as a Computer System Analyst. I was able to learn and troubleshoot system also network problems. I also diagnosed and solve hardware & software faults. Setting up new users accounts and profiles tackling password issues and also talking staff's through a series of actions, to help set up systems or resolve issues.",
+      "summary": "My first real work experience. Interning as a Computer System Analyst. I was able to learn and troubleshoot system also network problems. I also diagnosed and solved hardware & software faults. Setting up new users accounts and profiles tackling password issues and also talking staff's through a series of actions, to help set up systems or resolve issues.",
       "highlights": []
     }
   ],
@@ -125,12 +125,12 @@
     {
       "name": "Azure",
       "x_icon": "fa-solid fa-cloud-bolt",
-      "x_description": "VM, Vnet, Container Instances, AzureCDN, Storage Account, App Services, AKS, FrontDoor and others"
+      "x_description": "VM, ACR, Vnet, Container Instances, AzureCDN, Storage Account, App Services, AKS, FrontDoor and others"
     },
     {
       "name": "Infrastructure as Code",
       "x_icon": "fa-code",
-      "x_description": "Developing and maintaining infrastructure as code with Terraform"
+      "x_description": "Developing and maintaining infrastructure as code with Terraform and Bicep"
     },
     {
       "name": "Configuration Management",
@@ -140,33 +140,33 @@
     {
       "name": "CI/CD",
       "x_icon": "fa-infinity",
-      "x_description": "Implementing continuous integration and deployment pipelines with Azure DevOps"
+      "x_description": "Implementing continuous integration and deployment pipelines with GitHub Actions and Azure Pipelines"
     },
     {
       "name": "Scripting",
       "x_icon": "fa-brands fa-python",
-      "x_description": "Writting deployment tools and scripts, and automating all possible tasks with Python and PowerShell"
+      "x_description": "Writing deployment tools and scripts, and automating all possible tasks with Bash and PowerShell"
     },
     {
       "name": "Monitoring",
       "x_icon": "fa-chart-line",
-      "x_description": "Implementing centralized monitoring solution for cloud environments with Azure Monitor"
+      "x_description": "Implementing centralized monitoring solution for cloud environments with Prometheus, ELK, Grafana and Azure Monitor"
     },
     {
       "name": "Serverless",
       "x_icon": "fa-bolt",
-      "x_description": "Building reliable and cost efficient systems with Azure function and App services"
+      "x_description": "Building reliable and cost-efficient systems with Azure function and App services"
     },
     {
       "name": "Containers",
       "x_icon": "fa-brands fa-docker",
-      "x_description": "Delivering and distributing applications and tools with Docker, docker-compose and kubernetes"
+      "x_description": "Delivering and distributing applications and tools with Docker and Kubernetes"
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Fluent speaker"
+      "fluency": "Native speaker"
     },
     {
       "language": "Yoruba",
