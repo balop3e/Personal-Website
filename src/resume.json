@@ -34,6 +34,15 @@
   },
   "work": [
     {
+      "company": "KPMG MBS",
+      "position": "Senior Analyst Programmer/Senior DevOps Engineer",
+      "website": "https://kpmg.com/mt/en/home.html",
+      "startDate": "2024-11-12",
+      "endDate": "",
+      "summary": "Dynamic and results-driven Engineer, involved in the strategic deployment and release management of Microsoft Dynamics 365 Finance & Operations (FO) and Customer Engagement (CE). I lead end-to-end pipeline automation, optimizing CI/CD processes to support complex enterprise environments. My role involves architecting scalable, secure, and resilient infrastructure solutions that drive operational excellence and support digital transformation initiatives. With extensive expertise in containerization, cloud services, and infrastructure management, I focus on enhancing system reliability, performance, and security. I am adept at orchestrating cross-functional collaboration, mentoring teams, and implementing DevOps best practices that streamline workflows and improve deployment efficiency. My approach transcends technical execution—pioneering innovative methodologies that elevate the agility, scalability, and robustness of technology ecosystems in dynamic business landscapes.",
+      "highlights": []
+    },
+    {
       "company": "United Nations High Commissioner for Refugees (UNHCR)",
       "position": "Senior Consultant Specialist",
       "website": "https://www.unhcr.org/",
