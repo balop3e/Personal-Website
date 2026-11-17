@@ -1,11 +1,9 @@
 {
   "basics": {
     "name": "Oluwagbenga James Balogun",
-    "label": "Senior Consultant Specialist, SRE / DevOps Engineer",
+    "label": "Senior DevOps Engineer",
     "picture": "images/gbenga.png",
-    "x_pictureFallback": "images/gbenga.png",
-    "x_title": "Hi There! Thank you for visiting my Page",
-    "summary": "With nearly a decade in IT operations, I'm a results-driven DevOps Engineer with strong technical background and a Microsoft Certified Trainer with a profound interest in the exploration of the cloud realm. My expertise encompasses building distributed, cloud-native applications, service management, monitoring, and site reliability engineering. Currently positioned as a seasoned DevOps Engineer with KPMG MBS. I've been entrusted with a significant role as the Technical Lead for Application Lifecycle Management (ALM) at the United Nations High Commissioner for Refugees (UNHCR). I am presently engaged as a Senior Consultant Specialist for UNHCR, the UN Refugee Agency, where I leverage my expertise to optimize, automate, and strengthen the agency's technological infrastructure.",
+    "summary": "I work at KPMG Microsoft Business Solutions in Malta, where I design Azure infrastructure, operate Kubernetes platforms and automate releases for enterprise applications and internal AI services. My work spans cloud identity, platform reliability and delivery governance.",
     "location": {
       "country": "Malta",
       "countryCode": "MT",
@@ -29,90 +27,37 @@
         "username": "balop3e",
         "url": "https://github.com/balop3e",
         "x_icon": "fab fa-2x fa-github"
+      },
+      {
+        "network": "DEV Community",
+        "url": "https://dev.to/balop3e"
       }
     ]
   },
   "work": [
     {
-      "company": "KPMG MBS",
-      "position": "Senior Analyst Programmer/Senior DevOps Engineer",
-      "website": "https://kpmg.com/mt/en/home.html",
-      "startDate": "2024-11-12",
-      "endDate": "",
-      "summary": "Dynamic and results-driven Engineer, involved in the strategic deployment and release management of Microsoft Dynamics 365 Finance & Operations (FO) and Customer Engagement (CE). I lead end-to-end pipeline automation, optimizing CI/CD processes to support complex enterprise environments. My role involves architecting scalable, secure, and resilient infrastructure solutions that drive operational excellence and support digital transformation initiatives. With extensive expertise in containerization, cloud services, and infrastructure management, I focus on enhancing system reliability, performance, and security. I am adept at orchestrating cross-functional collaboration, mentoring teams, and implementing DevOps best practices that streamline workflows and improve deployment efficiency. My approach transcends technical execution—pioneering innovative methodologies that elevate the agility, scalability, and robustness of technology ecosystems in dynamic business landscapes.",
-      "highlights": []
+      "company": "KPMG Microsoft Business Solutions",
+      "position": "Senior DevOps Engineer",
+      "period": "2023 – Present",
+      "summary": "Design Azure infrastructure and delivery workflows for internal AI services, operate multi-cluster AKS and automate Dynamics 365 CE and Finance & Operations deployments and Azure integrations. A selected UNHCR engagement focused on application lifecycle management."
     },
     {
-      "company": "United Nations High Commissioner for Refugees (UNHCR)",
-      "position": "Senior Consultant Specialist",
-      "website": "https://www.unhcr.org/",
-      "startDate": "2023-08-09",
-      "endDate": "",
-      "summary": "I've been entrusted with a significant role as the Technical Lead for Application Lifecycle Management (ALM) at the United Nations High Commissioner for Refugees (UNHCR). I am presently engaged as a Senior Consultant Specialist for UNHCR, the UN Refugee Agency, where I leverage my expertise to optimize, automate, and strengthen the agency's technological infrastructure. I oversee the full spectrum of the application lifecycle, ensuring technological excellence in end-to-end solutions. While my foundation is in technology, my current placement within a globally-renowned humanitarian organization illustrates my ability to perform and innovate in high-stakes, global settings. My diverse experience, spanning from KPMG to UNHCR, emphasizes my adaptability and proficiency in managing projects that demand precision, scalability, and a keen understanding of large-scale operations. With a focus on harnessing the latest in DevOps practices, I am committed to ensuring smooth deployments, scalability, and high availability for the systems I manage, regardless of the sector or complexity of the challenge.",
-      "highlights": []
-    },
-    {
-      "company": "KPMG MBS",
-      "position": "Analyst Programmer/DevOps Engineer",
-      "website": "https://kpmg.com/mt/en/home.html",
-      "startDate": "2023-01-05",
-      "endDate": "",
-      "summary": "Innovative and strategic DevOps Engineer at KPMG, specializing in containerization and full pipeline processing to facilitate cutting-edge software delivery. My expertise lies in deploying scalable solutions and orchestrating end-to-end automation that enhances operational efficiencies. I have a proven track record in the deployment of Microsoft Dynamics 365 CE, contributing to the digital transformation initiatives with keen insights into cloud services and infrastructure management. Renowned for driving continuous integration and delivery, I excel in creating robust, secure, and resilient systems. My role goes beyond mere execution; it is about pioneering DevOps methodologies that redefine the agility and performance of technology systems in complex and dynamic environments.",
-      "highlights": []
-    },
-    {
-      "company": "Tek Experts",
-      "position": "Queue Manager",
-      "website": "https://tek-experts.com",
-      "startDate": "2022-03-05",
-      "endDate": "2022-11-23",
-      "summary": "Monitoring, sorting, filtering, exporting and grouping the queue. Reporting incidents problem tickets and SLA status.",
-      "highlights": []
-    },
-    {
-      "company": "Tek Experts",
-      "position": "Azure Infrasture Engineer",
-      "website": "https://tek-experts.com",
-      "startDate": "2021-06-05",
-      "endDate": "2022-03-05",
-      "summary": "Working as a cloud administrator on Microsoft Azure, actively involved in configuring VMs, storage accounts Azure active directory. Respond to support tickets from end-users, troubleshooting incidents related to windows and linux servers, identifying root cause, fix and implemetn preventive measures. i dentified road blockers and provided recommendations to improve efficiency and performance of clients cloud environment.",
-      "highlights": []
-    },
-    {
-      "company": "XFusionCorp",
-      "position": "Site Reliability Engineer - Devops Engineer",
-      "website": "https://kodekloud-engineer.com",
-      "startDate": "2019-06-08",
-      "endDate": "",
-      "summary": "Here was my first major experience as a DevOps and site reliability engineer. I designed and implemented network security structure, I improved reliability and performance using reverse proxy for global server load balancer traffic between target nodes. Actively manage and monitor cloud infrastructure on Azure, AKS, VM and Container Instances. Constantly reviewed and analyzed the security of web and mobile application. Created and maintained fully automated CI/CD pipelines for infrastructure deployment using terraform and Azure DevOps.",
-      "highlights": []
+      "company": "Tek Experts Nigeria",
+      "position": "DevOps / Cloud Security Engineer",
+      "period": "2021 – 2022",
+      "summary": "Supported Azure application deployments, diagnosed environment and runtime issues, and hardened cloud environments through identity controls, network security groups and web application firewall rules."
     },
     {
       "company": "Bonjourex Resources Nigeria Limited",
-      "position": "Business Analyst - IT Administrator",
-      "website": "https://bonjourex.ng",
-      "startDate": "2017-10-06",
-      "endDate": "2020-01-04",
-      "summary": "I coordinated new technical projects, defining the scope and managing milestones and maintaining strong relationships with stakeholders. I created a product design for an e-commerce application project. I pitched the cloud adoption and introduced agile method of developing our applications to the team. I worked with the development team to implement new design for the release environment also performed code reviews to ensure qulaity code migration.",
-      "highlights": []
+      "position": "Systems Administrator / Azure Administrator",
+      "period": "2016 – 2018",
+      "summary": "Administered Azure and business IT services, configured user access and supported cloud infrastructure improvements."
     },
     {
       "company": "Empire Business Solutions Limited",
       "position": "Technical Support Assistant",
-      "website": "",
-      "startDate": "2016-05-09",
-      "endDate": "2017-09-17",
-      "summary": "I got the experience that laid the foundation of my system development skills, I made quality testings and evaluated including helping to set up new technologies and applications at clients site (Nigeria Banks). The UNION ONE software for Union Bank of Nigeria was one of the core project I was fully involved in the set up and testing.",
-      "highlights": []
-    },
-    {
-      "company": "Nigeria Civil Aviation Authority",
-      "position": "Computer System Analyst",
-      "website": "https://ncaa.gov.ng",
-      "startDate": "2011-06-13",
-      "endDate": "2011-07-03",
-      "summary": "My first real work experience. Interning as a Computer System Analyst. I was able to learn and troubleshoot system also network problems. I also diagnosed and solved hardware & software faults. Setting up new users accounts and profiles tackling password issues and also talking staff's through a series of actions, to help set up systems or resolve issues.",
-      "highlights": []
+      "period": "2015 – 2016",
+      "summary": "Supported banking application deployments, including the Union Bank UNION ONE rollout, by validating configurations and analysing application logs."
     }
   ],
   "education": [

@@ -1,35 +1,16 @@
 import React from "react";
-import Badge from "../elements/Badge";
 import Resume from "../../resume.json";
 
 function AboutMe() {
   return (
-    <section className="section has-background-link" id="aboutMe">
-      <div className="container has-text-centered">
-        <figure className="image container is-180x180">
-          <img
-            width="180px"
-            height="180px"
-            src={Resume.basics.picture}
-            alt={Resume.basics.name}
-            className="is-rounded"
-            onError={(e)=>{e.target.onerror = null; e.target.src=Resume.basics.x_pictureFallback}}
-          />
-        </figure>
-        <p className="subtitle is-4 has-text-white has-text-weight-bold">
-          {Resume.basics.x_title}
-        </p>
-        <p className="subtitle is-5 has-text-white has-text-weight-light summary-text">
-          {Resume.basics.summary}
-        </p>
-        <div className="container interests">
-          <div className="field is-grouped is-grouped-multiline has-text-centered">
-            {Resume.interests.map((value, index) => {
-              return (
-                <Badge key={index} text={value.name} faIcon={value.x_icon} />
-              );
-            })}
+    <section className="section about-section" id="aboutMe" aria-labelledby="about-title">
+      <div className="container">
+        <div className="portfolio-section-intro">
+          <div>
+            <h2 className="title" id="about-title">About</h2>
+            <p>{Resume.basics.summary}</p>
           </div>
+          <a className="portfolio-text-link" href="#skills">View technical skills <span aria-hidden="true">↓</span></a>
         </div>
       </div>
     </section>

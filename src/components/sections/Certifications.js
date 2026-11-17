@@ -26,7 +26,7 @@ function buildBadges(certificates){
 function Certifications(props) {
     return (
         <section className="section" id="certifications">
-            <h1 className="title">Certifications</h1>
+            <h2 className="title">Certifications</h2>
             <div className="container">
                 <div className="columns is-centered">
                     {buildBadges(Resume.certificates)}

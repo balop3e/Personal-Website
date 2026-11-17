@@ -24,7 +24,7 @@ function Skills() {
   return (
     <section className="section" id="skills">
       <div className="container">
-        <h1 className="title">Skills</h1>
+        <h2 className="title">Skills</h2>
         <div className="columns">
           {buildSkillsRow(Resume.skills, 0, 4)}
         </div>

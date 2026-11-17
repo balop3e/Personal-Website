@@ -16,6 +16,7 @@ class App extends Component {
   render() {
     return (
       <div>
+        <a className="portfolio-skip-link" href="#main-content">Skip to content</a>
         <Header />
         <Content />
         <Footer />

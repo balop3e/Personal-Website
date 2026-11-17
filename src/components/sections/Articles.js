@@ -12,6 +12,7 @@ class Articles extends Component {
 
     fetch(devTo)
       .then(response => {
+        if (!response.ok) throw new Error("Could not load articles");
         return response.json();
       })
       .then(data => {
@@ -32,9 +33,12 @@ class Articles extends Component {
         });
         var offset = 4 - data.length;
         for (var i = 0; i < offset; i++) {
-          articles.push(<div className="column"></div>);
+          articles.push(<div className="column" key={`empty-${i}`}></div>);
         }
         this.setState({ articles: articles });
+      })
+      .catch(() => {
+        this.setState({ articles: [] });
       });
   }
 
@@ -42,8 +46,12 @@ class Articles extends Component {
     return (
       <section className="section" id="articles">
         <div className="container">
-          <h1 className="title">Articles</h1>
-          <h2 className="subtitle is-4">My latest articles</h2>
+          <div className="portfolio-section-intro">
+            <h2 className="title">Articles</h2>
+            <a className="portfolio-text-link" href="https://dev.to/balop3e">
+              All articles on DEV <span aria-hidden="true">↗</span>
+            </a>
+          </div>
           <div className="columns">{this.state.articles}</div>
         </div>
       </section>
